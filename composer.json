@@ -1,7 +1,7 @@
 {
   "name": "ardent.intent/blade",
   "description": "A minimal stand-alone port of the Laravel Blade templating engine.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "library",
   "license": "GPL-2.0-or-later",
   "autoload": {
