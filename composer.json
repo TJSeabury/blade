@@ -3,7 +3,7 @@
   "description": "A minimal stand-alone port of the Laravel Blade templating engine.",
   "version": "1.0.0",
   "type": "library",
-  "license": "GPLv2",
+  "license": "GPL-2.0-or-later",
   "autoload": {
     "psr-4": {
       "ArdentIntent\\Blade\\": "src/"
