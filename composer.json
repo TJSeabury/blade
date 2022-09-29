@@ -1,0 +1,26 @@
+{
+  "name": "ardent.intent/blade",
+  "description": "A minimal stand-alone port of the Laravel Blade templating engine.",
+  "type": "library",
+  "license": "GPLv2",
+  "autoload": {
+    "psr-4": {
+      "ArdentIntent\\Blade\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Tyler Seabury",
+      "email": "ardent.intent@pm.me"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "ardent.intent/asingleton": "dev-master",
+    "illuminate/container": "^8.83",
+    "illuminate/contracts": "^8.83",
+    "illuminate/events": "^8.83",
+    "illuminate/filesystem": "^8.83",
+    "illuminate/view": "^8.83"
+  }
+}
