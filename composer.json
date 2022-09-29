@@ -17,7 +17,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "ardent.intent/asingleton": "dev-master",
+    "ardent.intent/asingleton": "^1.0.0",
     "illuminate/container": "^8.83",
     "illuminate/contracts": "^8.83",
     "illuminate/events": "^8.83",

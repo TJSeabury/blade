@@ -4,23 +4,22 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0df9270b42426137466c7dc50796e9d7",
+    "content-hash": "40d0ee2e51b7a12eecf0d35728c8ae55",
     "packages": [
         {
             "name": "ardent.intent/asingleton",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TJSeabury/asingleton.git",
-                "reference": "e24a303f2c3e68e08fbb8d6e73ef5f901d52cce5"
+                "reference": "e29b6fcd25f87b6fed9fd228b90c4ded6ef0d605"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TJSeabury/asingleton/zipball/e24a303f2c3e68e08fbb8d6e73ef5f901d52cce5",
-                "reference": "e24a303f2c3e68e08fbb8d6e73ef5f901d52cce5",
+                "url": "https://api.github.com/repos/TJSeabury/asingleton/zipball/e29b6fcd25f87b6fed9fd228b90c4ded6ef0d605",
+                "reference": "e29b6fcd25f87b6fed9fd228b90c4ded6ef0d605",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -40,9 +39,9 @@
             "description": "Abstract singleton class.",
             "support": {
                 "issues": "https://github.com/TJSeabury/asingleton/issues",
-                "source": "https://github.com/TJSeabury/asingleton/tree/master"
+                "source": "https://github.com/TJSeabury/asingleton/tree/1.0.0"
             },
-            "time": "2022-09-29T13:43:16+00:00"
+            "time": "2022-09-29T15:38:51+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -1424,9 +1423,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "ardent.intent/asingleton": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
